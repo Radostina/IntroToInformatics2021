@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
+ 
 int main()
 {
 	srand(time(0)); //seed random number generator
