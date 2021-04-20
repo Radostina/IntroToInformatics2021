@@ -18,7 +18,6 @@ int main()
             cout << "Too high!\n\n";
         }
         else if (guess < num)
-            a
             {
                 cout << "Too low!\n\n";
             }
